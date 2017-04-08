@@ -8,7 +8,7 @@ public class PersonTestDataBuilder {
 	private String lastName;
 
 	public PersonTestDataBuilder() {
-		this.name = "Ceiba";
+		this.name = "Ceibaaaaaa";
 		this.lastName = "Software House";
 	}
 
